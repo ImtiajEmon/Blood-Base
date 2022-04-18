@@ -1,0 +1,103 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+  width: 100%;
+  background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(pexels-artem-podrez-6823567.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.navbar{
+  width: 1200px;
+  height: 75px;
+  margin: auto;
+}
+
+.icon{
+  width: 200px;
+  float: left;
+  height: 70px;
+}
+
+.logo{
+  
+  padding-left: 20px;
+  padding-bottom: 20px;
+  position: absolute;
+  float: left;
+  
+  
+  
+  
+}
+.logo image{
+  height: ;
+  
+  
+}
+
+  
+  
+}
+.menu{
+  width: 400px;
+  float: left;
+  height: 70px;
+}
+
+ul{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul li{
+  list-style: none;
+  margin-left: 62px;
+  margin-top: 35px;
+  font-size: 20px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: rgb(251, 247, 247);
+  font-family: Arial;
+  font-weight: bold;
+  transition: 0.4s ease-in-out;
+  
+}
+
+ul li a:hover{
+  color: #36e630;
+}
+
+.content{
+  width: 1200px;
+  height: auto;
+  margin: auto;
+  color: rgb(231, 228, 61);
+  position: relative;
+}
+
+.content .par{
+  padding-left: 20px;
+  padding-bottom: 25px;
+  font-family:cursive;
+  letter-spacing: 1px;
+  line-height: 30px;
+  color: antiquewhite;
+  
+}
+
+.content h1{
+  font-family: 'Times New Roman';
+  font-size: 50px;
+  padding-left: 20px;
+  margin-top: 9%;
+  letter-spacing: 2px;
+}
